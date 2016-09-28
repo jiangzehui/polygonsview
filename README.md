@@ -4,6 +4,7 @@
 [![Twitter](https://img.shields.io/badge/Gradle-2.1.0-brightgreen.svg)](https://github.com/jiangzehui/polygonsview)
 
 模仿掌上英雄联盟能力分析效果
+<br>
 正在学习自定义View的同学，可以看看源码，希望对你们有帮助！！！
 <br>
 如果你觉得还不错，可以给个star，支持下，谢谢了！
