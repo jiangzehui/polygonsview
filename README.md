@@ -2,6 +2,7 @@
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-polygonsview-green.svg?style=true)](https://android-arsenal.com/details/3/4408)
 [![Twitter](https://img.shields.io/badge/Gradle-2.1.0-brightgreen.svg)](https://github.com/jiangzehui/polygonsview)
+[![Travis](https://img.shields.io/badge/details-1.0-orange.svg)](http://blog.csdn.net/as7210636/article/details/52688381)
 
 模仿掌上英雄联盟能力分析效果
 <br>
