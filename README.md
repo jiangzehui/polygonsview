@@ -28,7 +28,7 @@ http://blog.csdn.net/as7210636/article/details/52688381
 
 
 #About me
-[![Travis](https://img.shields.io/badge/weibo-%E6%B1%9F%E6%B3%BD%E8%BE%89%E4%B8%B6-blue.svg)](http://weibo.com/jiangzehui)<br>
+
 An android little developer in HeBei.<br>
 If you have any suggestions, let me know.<br>
 email:383001264@qq.com
