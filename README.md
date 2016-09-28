@@ -18,7 +18,7 @@
 <br><br>
 
 # Doc
-Imitation of Ali credit sesame new old ring view.http://www.jianshu.com/p/d916791f0bfd
+http://www.jianshu.com/p/d916791f0bfd
 
 #About me
 ----------
