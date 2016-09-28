@@ -17,7 +17,8 @@
 ![这里写图片描述](https://github.com/jiangzehui/polygonsview/blob/master/png/p1.png)
 <br><br>
 
-
+# Doc
+Imitation of Ali credit sesame new old ring view.http://www.jianshu.com/p/d916791f0bfd
 
 #About me
 ----------
