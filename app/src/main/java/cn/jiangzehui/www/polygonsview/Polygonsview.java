@@ -19,7 +19,7 @@ public class Polygonsview extends View {
     private int defalutSize = 300;//默认大小
     private String[] str = {"击杀", "生存", "助攻", "物理", "魔法", "防御", "金钱"};
     private Rect str_rect;//字体矩形
-    private Paint mPaint;//各等级进度画笔
+    private Paint rank_Paint;//各等级进度画笔
     private Paint str_paint;//字体画笔
     private Paint center_paint;//中心线画笔
     private Paint one_paint;//最外层多边形画笔
@@ -49,11 +49,11 @@ public class Polygonsview extends View {
         str_paint.getTextBounds(str[0], 0, str[0].length(), str_rect);
 
         //初始化各等级进度画笔
-        mPaint = new Paint();
-        mPaint.setAntiAlias(true);
-        mPaint.setColor(Color.RED);
-        mPaint.setStrokeWidth(8);
-        mPaint.setStyle(Paint.Style.STROKE);//设置空心
+        rank_Paint = new Paint();
+        rank_Paint.setAntiAlias(true);
+        rank_Paint.setColor(Color.RED);
+        rank_Paint.setStrokeWidth(8);
+        rank_Paint.setStyle(Paint.Style.STROKE);//设置空心
 
         //初始化最外层多边形画笔
         one_paint = new Paint();
@@ -87,6 +87,47 @@ public class Polygonsview extends View {
 
 
     }
+
+    public void setStr(String[] str){
+        if(str!=null&&str.length==7){
+            this.str = str;
+            invalidate();
+        }
+    }
+
+    public void setOneColor(int color){
+        one_paint.setColor(color);
+        invalidate();
+    }
+    public void setTwoColor(int color){
+        two_paint.setColor(color);
+        invalidate();
+    }
+    public void setThreeColor(int color){
+        three_paint.setColor(color);
+        invalidate();
+    }
+    public void setFourColor(int color){
+        four_paint.setColor(color);
+        invalidate();
+    }
+
+    public void setCenterColor(int color){
+        center_paint.setColor(color);
+        invalidate();
+    }
+
+    public void setStrColor(int color){
+        str_paint.setColor(color);
+        invalidate();
+    }
+
+    public void setRankColor(int color){
+        rank_Paint.setColor(color);
+        invalidate();
+    }
+
+
 
 
 
@@ -153,7 +194,7 @@ public class Polygonsview extends View {
         path.lineTo((float) (center - Math.sin(Math.toRadians(360 / 7 + 360 / 7 / 2)) * (one_radius - f6)), (float) (Math.cos(Math.toRadians(360 / 7 + 360 / 7 / 2)) * (one_radius - f6)) + center);
         path.lineTo((float) (center - Math.sin(Math.toRadians(360 / 7)) * (one_radius - f7)), (float) (getPaddingTop() + 2 * str_rect.height() + (one_radius) - Math.abs(Math.cos(Math.toRadians(360 / 7)) * (one_radius - f7))));
         path.close();
-        canvas.drawPath(path, mPaint);
+        canvas.drawPath(path, rank_Paint);
 
     }
 
