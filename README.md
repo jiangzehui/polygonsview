@@ -60,7 +60,8 @@
 | setTwoColor    | color    |   设置第二层正多形颜色  |
 | setThreeColor    | color    |   设置第三层多边形颜色  |
 | setFourColor    | color    |   设置最内层多边形颜色  |
-| setRankColor    | color    |   设置中心线颜色  |
+| setCenterColor    | color    |   设置中心线颜色  |
+| setRankColor    | color    |   设置rank线颜色  |
 | setValue1    | float(0~4)    |   设置rank值1 （从中上开始顺时针方向） |
 | setValue2    | float(0~4)    |   设置rank值2 |
 | setValue3    | float(0~4)    |   设置rank值3 |
