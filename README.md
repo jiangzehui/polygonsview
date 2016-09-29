@@ -48,6 +48,32 @@
 <br>
 <br>
 
+
+# Attributes
+
+
+----------
+
+
+| name | format | description |
+| -----|:----:| ----:|
+| setStr | String[] | 设置提示字体（长度必须为7位,从中上开始顺时针方向）|
+| setStrColor    | color    |  设置字体颜色   |
+| setOneColor    | color    |  设置最外层正多形颜色   |
+| setTwoColor    | color    |   设置第二层正多形颜色  |
+| setThreeColor    | color    |   设置第三层多边形颜色  |
+| setFourColor    | color    |   设置最内层多边形颜色  |
+| setRankColor    | color    |   设置中心线颜色  |
+| setValue1    | float(0~4)    |   设置rank值1 （从中上开始顺时针方向） |
+| setValue2    | float(0~4)    |   设置rank值2 |
+| setValue3    | float(0~4)    |   设置rank值3 |
+| setValue4    | float(0~4)    |   设置rank值4 |
+| setValue5    | float(0~4)    |   设置rank值5 |
+| setValue6    | float(0~4)    |   设置rank值6 |
+| setValue7    | float(0~4)    |   设置rank值7 |
+
+<br>
+
 # Doc
 http://blog.csdn.net/as7210636/article/details/52692102
 <br>
