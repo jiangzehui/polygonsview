@@ -52,9 +52,6 @@
 # Attributes
 
 
-----------
-
-
 | name | format | description |
 | -----|:----:| ----:|
 | setStr | String[] | 设置提示字体（长度必须为7位,从中上开始顺时针方向）|
