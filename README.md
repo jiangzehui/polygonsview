@@ -57,11 +57,11 @@
 
 | name | format | description |
 | -----|:----:| ----:|
-| setStr | String[] | 设置提示字体（长度必须为7位,从中上开始顺时针方向）|
-| setStrColor    | color    |  设置字体颜色   |
-| setOneColor    | color    |  设置最外层正多形颜色   |
-| setTwoColor    | color    |   设置第二层正多形颜色  |
-| setThreeColor    | color    |   设置第三层多边形颜色  |
+| setStr | String[] | 设置提示字体（长度必须为7位,从中上开始顺时针方向）|
+| setStrColor    | color    |  设置字体颜色   |
+| setOneColor    | color    |  设置最外层正多形颜色   |
+| setTwoColor    | color    |   设置第二层正多形颜色  |
+| setThreeColor    | color    |   设置第三层多边形颜色  |
 | setFourColor    | color    |   设置最内层多边形颜色  |
 | setRankColor    | color    |   设置中心线颜色  |
 | setValue1    | float(0~4)    |   设置rank值1 （从中上开始顺时针方向） |
