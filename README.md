@@ -12,7 +12,7 @@
 如果你觉得还不错，可以给个star，支持下，谢谢了！
 <br>
 #原始图效果
-![这里写图片描述](https://github.com/jiangzehui/polygonsview/blob/master/png/p2.png))
+![这里写图片描述](https://github.com/jiangzehui/polygonsview/blob/master/png/p2.png)
 <br><br>
 #模仿效果
 <br>
