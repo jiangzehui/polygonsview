@@ -77,10 +77,14 @@ http://blog.csdn.net/as7210636/article/details/52692102
 <br>
 
 
-#其他推荐
+#阅读推荐
 
-开源一个自己去年写的基于Xmpp协议的即时通讯社交软件 (客户端+服务端)<br> https://github.com/jiangzehui/xmpp<br>
-![这里写图片描述](https://github.com/jiangzehui/yyquan/blob/master/img/gf1.gif)<br>
+1.开源一个自己去年写的基于Xmpp协议的即时通讯社交软件 (客户端+服务端)<br> https://github.com/jiangzehui/xmpp<br><br>
+
+2.此项目基于Retrotfit2.1+Material Design+ijkplayer开发的一个APP。目前已有的功能是 新闻，gif动图，视频播放<br>
+https://github.com/jiangzehui/MD<br>
+
+
 #About me
 
 An android little developer in HeBei.<br>
