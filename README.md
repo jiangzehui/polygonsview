@@ -77,11 +77,15 @@ http://blog.csdn.net/as7210636/article/details/52692102
 <br>
 
 
+#其他推荐
+
+开源一个自己去年写的基于Xmpp协议的即时通讯社交软件 (客户端+服务端)<br> https://github.com/jiangzehui/xmpp<br>
+![这里写图片描述](https://github.com/jiangzehui/yyquan/blob/master/img/gf1.gif)<br>
 #About me
 
 An android little developer in HeBei.<br>
 If you have any suggestions, let me know.<br>
-email:383001264@qq.com
+email:jianghui1992@vip.qq.com
 
 <br>
 #License
