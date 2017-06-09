@@ -11,16 +11,23 @@
 <br>
 如果你觉得还不错，可以给个star，支持下，谢谢了！
 <br>
-#原始图效果
+# 原始图效果
 ![这里写图片描述](https://github.com/jiangzehui/polygonsview/blob/master/png/p2.png)
 <br><br>
-#模仿效果
+
+# 模仿效果
 <br>
-##gif
+
+## gif
+
 ![gif](https://github.com/jiangzehui/polygonsview/blob/master/png/p3.gif)
+
 <br>
-##png
+
+## png
+
 ![这里写图片描述](https://github.com/jiangzehui/polygonsview/blob/master/png/p1.png)
+
 <br><br>
 流程
 --
@@ -77,7 +84,7 @@ http://blog.csdn.net/as7210636/article/details/52692102
 <br>
 
 
-#阅读推荐
+# 阅读推荐
 
 1.开源一个自己去年写的基于Xmpp协议的即时通讯社交软件 (客户端+服务端)<br> https://github.com/jiangzehui/xmpp<br><br>
 
@@ -85,14 +92,15 @@ http://blog.csdn.net/as7210636/article/details/52692102
 https://github.com/jiangzehui/MD<br>
 
 
-#About me
+# About me
 
 An android little developer in HeBei.<br>
 If you have any suggestions, let me know.<br>
 email:jianghui1992@vip.qq.com
 
 <br>
-#License
+
+# License
 
 Copyright 2016 jiangzehui
 
